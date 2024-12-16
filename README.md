@@ -1,6 +1,10 @@
-# **AtliQ Hardware Business Intelligence Report**
+# **ATLIQ HARDWARE BUSINESS INTELLIGENCE REPORT**
 
-## *INTRODUCTION*
+## *Introduction*
 Atliq Hardware specializes in providing a wide range of hardware products, including personal computers, mice, printers, and various peripherals. We not only manufacture our own products but also cater to a diverse 
 customer base. To expand our reach, we leverage key intermediaries such as retail giants like Croma and Best Buy, as well as popular online platforms like Flipkart and Amazon. These partnerships ensure our products 
 are accessible to a broad audience, connecting us to end consumers efficiently.
+
+## *Problem Statement*
+
+To develop an interactive business intelligence dashboard, the Sales and Finance Analytics Report will provide valuable insights into key business metrics at Atliq Hardware. The dashboard will focus on sales performance, financial health, and operational efficiency, supporting data-driven decision-making. With interactive features, it will help stakeholders formulate well-informed strategies for business growth.
