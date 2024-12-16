@@ -28,10 +28,10 @@ __Project objective:__
 5. Create a Top & bottom 5 products report.<br>
         ->Insights:
                    a).Top 5 Products by Quantity: Insights on best-performing products, with "AQ Master wired x1 Ms" leading.<br>
-                   b).Bottom 5 Products by Quantity: Insights into underperforming products and considerations for adjustments,with "AQ HOME Allin1 Gen 2".<br>
+   b).Bottom 5 Products by Quantity: Insights into underperforming products and considerations for adjustments,with "AQ HOME Allin1 Gen 2".<br>
 
-6. Create a New Products 2021 report.
+6. Create a New Products 2021 report.<br>
         ->Insights: 16 new products were added in 2021, with "AQ Qwerty" performing exceptionally well.
    
-7. Create a Top 5 countries report.
+7. Create a Top 5 countries report.<br>
         ->Insights: Top Country India leading the sales with 241.9 M and Swedan being the most under-performing country with sales of 2 M. 
