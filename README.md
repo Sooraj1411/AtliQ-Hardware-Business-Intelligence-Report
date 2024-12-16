@@ -13,25 +13,32 @@ To develop an interactive business intelligence dashboard, the Sales and Finance
 __Project objective:__
 
 1. Create a customer performance report.<br>
-        ->Insights: Revenue increased from $87.5 million in 2019 to $598.9 million in 2021 (304.5% growth).
++ Insights: Revenue increased from $87.5 million in 2019 to $598.9 million in 2021 (304.5% growth).
    
 2. Conduct a comprehensive comparison between market performance and sales targets.<br>
-        ->Insights: All the markets fell short of their sales targets.
++ Insights: All the markets fell short of their sales targets.
 3. Create a top 10 products report.<br>
-        ->Insights: The top ten products with significant sales increases, including the best-seller "AQ Wi Power Dx2" and "AQ Wi Power Dx1".
++ Insights: The top ten products with significant sales increases, including the best-seller "AQ Wi Power Dx2" and "AQ Wi Power Dx1".
    
 4. Generate a Division report.<br>
-        ->Insights:
-                    a).PCs sales increased from $40.1 million in 2020 to $165.8 million in 2021.<br>
-                    b).Accessories and peripherals grew from $105.2 million to $338.4 million (321.5% increase).<br>
-                    c).Networking and storage products surged from $51.4 million to $94.7 million (184.4% increase).<br>
++ Insights :<br>
+o PCs sales increased from $40.1 million in 2020 to $165.8 million in 2021.<br>
+o Accessories and peripherals grew from $105.2 million to $338.4 million (321.5% increase).<br>
+o Networking and storage products surged from $51.4 million to $94.7 million (184.4% increase).<br>
+  
 5. Create a Top & bottom 5 products report.<br>
-        ->Insights:
-                   a).Top 5 Products by Quantity: Insights on best-performing products, with "AQ Master wired x1 Ms" leading.<br>
-   b).Bottom 5 Products by Quantity: Insights into underperforming products and considerations for adjustments,with "AQ HOME Allin1 Gen 2".<br>
++ Insights :<br>
+o Top 5 Products by Quantity: Insights on best-performing products, with "AQ Master wired x1 Ms" leading.<br>
+o Bottom 5 Products by Quantity: Insights into underperforming products and considerations for adjustments,with "AQ HOME Allin1 Gen 2".<br>
 
 6. Create a New Products 2021 report.<br>
-        ->Insights: 16 new products were added in 2021, with "AQ Qwerty" performing exceptionally well.
++ Insights: 16 new products were added in 2021, with "AQ Qwerty" performing exceptionally well.
    
 7. Create a Top 5 countries report.<br>
-        ->Insights: Top Country India leading the sales with 241.9 M and Swedan being the most under-performing country with sales of 2 M. 
++ Insights: Top Country India leading the sales with 241.9 M and Swedan being the most under-performing country with sales of 2 M.
+
++ Purpose of sales analytics: Empower businesses to monitor and evaluate their sales activities and performance.
+
++ Importance of analyzing sales data: Identify sales patterns and track key performance indicators (KPIs).
+
++ Role of reports: Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
