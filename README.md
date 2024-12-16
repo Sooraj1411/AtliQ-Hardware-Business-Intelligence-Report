@@ -29,7 +29,7 @@ o Networking and storage products surged from $51.4 million to $94.7 million (18
 5. Create a Top & bottom 5 products report.<br>
 + Insights :<br>
 o Top 5 Products by Quantity: Insights on best-performing products, with "AQ Master wired x1 Ms" leading.<br>
-o Bottom 5 Products by Quantity: Insights into underperforming products and considerations for adjustments,with "AQ HOME Allin1 Gen 2".<br>
+o Bottom 5 Products by Quantity: Insights into underperforming products,with "AQ HOME Allin1 Gen 2".<br>
 
 6. Create a New Products 2021 report.<br>
 + Insights: 16 new products were added in 2021, with "AQ Qwerty" performing exceptionally well.
@@ -42,3 +42,17 @@ o Bottom 5 Products by Quantity: Insights into underperforming products and cons
 + Importance of analyzing sales data: Identify sales patterns and track key performance indicators (KPIs).
 
 + Role of reports: Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+
+
+## *Financial Report*
+__Project objective:__
+
+1.Create Profit and Loss (P&L) reports by Fiscal Year & Months.
++ Insights:
+- Net Sales surged by 204.5% over three years, with efficient cost management maintaining a strong gross margin.
+- November & December reamains our best Months in terms of Net Sales, Gross Margin.
+2. Create Profit and Loss (P&L) report by Markets.
+
+3. Create Profit and Loss (P&L) report by FY & Market breakdown.
+
+4. Create GM% by quarters report(Sub zone).
