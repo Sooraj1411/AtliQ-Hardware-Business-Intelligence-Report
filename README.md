@@ -22,11 +22,16 @@ __Project objective:__
    
 4. Generate a Division report.<br>
         ->Insights:
-                    a).PCs sales increased from $40.1 million in 2020 to $165.8 million in 2021.
-                    b).Accessories and peripherals grew from $105.2 million to $338.4 million (321.5% increase).
-                    c).Networking and storage products surged from $51.4 million to $94.7 million (184.4% increase).
-7. Create a Top & bottom 5 products report.
+                    a).PCs sales increased from $40.1 million in 2020 to $165.8 million in 2021.<br>
+                    b).Accessories and peripherals grew from $105.2 million to $338.4 million (321.5% increase).<br>
+                    c).Networking and storage products surged from $51.4 million to $94.7 million (184.4% increase).<br>
+5. Create a Top & bottom 5 products report.<br>
+        ->Insights:
+                   a).Top 5 Products by Quantity: Insights on best-performing products, with "AQ Master wired x1 Ms" leading.<br>
+                   b).Bottom 5 Products by Quantity: Insights into underperforming products and considerations for adjustments,with "AQ HOME Allin1 Gen 2".<br>
 
-8. Create a New Products 2021 report.
-
-9. Create a Top 5 countries report.
+6. Create a New Products 2021 report.
+        ->Insights: 16 new products were added in 2021, with "AQ Qwerty" performing exceptionally well.
+   
+7. Create a Top 5 countries report.
+        ->Insights: Top Country India leading the sales with 241.9 M and Swedan being the most under-performing country with sales of 2 M. 
