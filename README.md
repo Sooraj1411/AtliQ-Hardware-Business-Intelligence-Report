@@ -12,9 +12,10 @@ To develop an interactive business intelligence dashboard, the Sales and Finance
 ## *Sales Report*
 __Project objective:__
 
-1. Create a customer performance report.
-(0149)Insights: Revenue increased from $87.5 million in 2019 to $598.9 million in 2021 (304.5% growth).
+1. Create a customer performance report.<br>
+    ->Insights: Revenue increased from $87.5 million in 2019 to $598.9 million in 2021 (304.5% growth).
 2. Conduct a comprehensive comparison between market performance and sales targets.
+oInsights: Some markets exceeded their sales targets, while others fell short, providing insights for future strategies.
 
 3. Create a top 10 products report.
 
