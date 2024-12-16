@@ -49,10 +49,20 @@ __Project objective:__
 
 1.Create Profit and Loss (P&L) reports by Fiscal Year & Months.
 + Insights:
-- Net Sales surged by 204.5% over three years, with efficient cost management maintaining a strong gross margin.
-- November & December reamains our best Months in terms of Net Sales, Gross Margin.
+o Net Sales surged by 204.5% over three years, with efficient cost management maintaining a strong gross margin.
+o November & December reamains our best Months in terms of Net Sales, Gross Margin.
+
 2. Create Profit and Loss (P&L) report by Markets.
-
++ Insights: Japan and New Zealand showed the highest profit margins, while Germany had lower margins.
+  
 3. Create Profit and Loss (P&L) report by FY & Market breakdown.
-
++ Insights: India remains on top in terms of generating sales.
+  
 4. Create GM% by quarters report(Sub zone).
+
+## *Skills I learn During this Project*
++ Proficiency in ETL methodology(Extraction, Transform and Load)
++ Skills to generate a table using Power Query
++ Ability to derive fiscal months and Quaters.
++ Establishing data model relationships with PowerPivot.
++ Utilizing DAX to create calculated columns.
